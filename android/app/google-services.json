@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274979717451",
+    "project_id": "app-de-turismo-5b6ed",
+    "storage_bucket": "app-de-turismo-5b6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274979717451:android:3408df68a9e01e2cc7e8ce",
+        "android_client_info": {
+          "package_name": "com.flutter.appturismo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagxCTOsCwZ2CGEOBGcwO4M0oiUgBdNe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

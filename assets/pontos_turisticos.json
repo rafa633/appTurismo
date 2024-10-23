@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Caminho das Pedras",
+    "descricao": "Uma aventura de beleza natural",
+    "imagem": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "fotos_adicionais": [
+      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+    ],
+    "comentarios": []
+  },
+  {
+    "nome": "Praia de Juquehy",
+    "descricao": "Praia paradisíaca com águas claras",
+    "imagem": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "fotos_adicionais": [
+      "https://example.com/foto3.jpg",
+      "https://example.com/foto4.jpg"
+    ],
+    "comentarios": []
+  },
+  {
+    "nome": "Praia de Miracatu",
+    "descricao": "Praia paradisíaca com águas calmas",
+    "imagem": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "fotos_adicionais": [
+      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+    ],
+    "comentarios": []
+  }
+]

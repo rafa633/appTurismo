@@ -1,0 +1,32 @@
+name: MiracaQuest
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  url_launcher: any
+  google_nav_bar: ^5.0.6
+  google_maps_flutter: ^2.3.0
+  shared_preferences: ^2.0.6
+  carousel_slider: ^4.2.1
+  cupertino_icons: ^1.0.8
+  provider: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pontos_turisticos.json
+    - assets/images/ # Adicione aqui o caminho para as suas imagens
+    - assets/data/    # Adicione aqui o caminho para arquivos de dados JSON, se necessário
